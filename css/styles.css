@@ -117,6 +117,11 @@ p{
     margin: 20px 20px 50px;
   }
 
+  .press-image1{
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+
   /* Pricing section */
 #pricing{
   padding: 100px;
@@ -160,5 +165,12 @@ p{
 
 .container-fluid{
   text-align: center;
+}
+.navbar-nav
+{
+  text-align: right;
+}
+.press-image1{
+  display: none;
 }
 }
